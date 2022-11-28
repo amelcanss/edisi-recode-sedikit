@@ -28,10 +28,10 @@ global.premium = ['6287833306677'] //ur premium number
 global.botname = 'Fahil-Botz' //ur bot name
 global.ownername = "Fahil"
 global.linkz = "https://youtu.be/CO3bkX-pG6o" //your theme url which will be displayed on whatsapp
-global.websitex = "https:/github.com/RiellTod1" //ur website to be displayed
+global.websitex = "https:/github.com/amelcanss" //ur website to be displayed
 global.botscript = 'Recode sendri dek🗿/DGX' //script link
 global.themeemoji = "🥶" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
+global.packname = "By Fahil" //ur sticker watermark packname
 global.author = "Ig : @_pahilz26" //ur sticker watermark author
 global.wm = "Fahil-Botz Inc." //ur watermark
 
